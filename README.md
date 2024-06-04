@@ -8,7 +8,3 @@ A simple QR Code Generator web application built with HTML, CSS, and JavaScript.
 - Displays the generated QR code on the webpage
 - Provides a default image if no text is entered
 - Stylish and responsive design
-
-## Demo
-
-(https://qr-code-generator-mjw5f83fq-sxgedzns-projects.vercel.app/)
